@@ -1,31 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Fit Gamer Studio
 
-You can use the [editor on GitHub](https://github.com/haleytaylor1/Fit-Gamer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Today, we're talking about [how to build your home gym](https://github.com/haleytaylor1/Fit-Gamer/edit/gh-pages/index.md) as a gamer with not much more time on their hands for anything besides gaming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're very excited to embark on this journey with you, discussing new topics every week about what it means to be a gamer into fitness, and hopefully teaching you something along the way!
 
-### Markdown
+### Join the Discord!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Fit Gamer Discord is a niche community for gamers and gym rats alike! You can join the Discord here:
 
 ```markdown
-Syntax highlighted code block
+[Discord](discord.gg)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+These are some things we talk about over there:
+- Mental Health
+- Game Recs
+- Anime Recs
+- Amazon Links
+- YouTube Videos
+- New Blog Topics
 ```
+### We also have a YouTube!
 
+Just wanna chill with us and learn more about fitness while gaming? Our YouTube is where it's at!
+```markdown
+[YouTube](youtube.com)
+
+- **Latest Video:** 5 Elements of the Perfect Home Gym! (Affordable!!)
+```
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
@@ -35,3 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Link](url) and ![Image](src)
+**Bold** and _Italic_ and `Code` text
